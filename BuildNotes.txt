@@ -2,4 +2,4 @@ For this build of the game, I've fixed the camera system, changed the enemy AI t
 added sounds, added a new bar for the super, added a main menu screen, credits screen, and controls screen.
 The player now gains mana and super points for killing enemies, and enemies will respawn randomly in one of
 the spawnpoints.
-Not happy with how this turned out, leading cause is very poor time managment.
+Not happy with how this turned out, cause is over ambitious game idea and poor time management.
